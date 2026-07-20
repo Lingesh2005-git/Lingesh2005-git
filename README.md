@@ -42,7 +42,7 @@ Building scalable applications and solving real-world problems.
 ### Frameworks
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express" />
 </p>
 
 ### 🗄️ Database
