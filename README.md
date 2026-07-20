@@ -58,6 +58,27 @@ Building scalable applications and solving real-world problems.
 </p>
 
 <hr style="height:6px; border:none; background-color:#2E9EF7; border-radius: 3px;">
+
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+☕ Java &nbsp;&nbsp; 🐍 Python &nbsp;&nbsp; 🌐 JavaScript &nbsp;&nbsp; 🔵 C &nbsp;&nbsp; ⚙️ C++
+
+### 🎨 Frontend
+⚛️ React &nbsp;&nbsp; 📱 React Native &nbsp;&nbsp; 🌐 HTML5 &nbsp;&nbsp; 🎨 CSS3
+
+### ⚙️ Backend
+🟢 Node.js &nbsp;&nbsp; 🚀 Express.js
+
+### 🗄️ Database
+🍃 MongoDB &nbsp;&nbsp; 🐬 MySQL &nbsp;&nbsp; 🔥 Firebase
+
+### 🛠️ Tools
+🔧 Git &nbsp;&nbsp; 🐙 GitHub &nbsp;&nbsp; 💻 VS Code &nbsp;&nbsp; 📬 Postman &nbsp;&nbsp; 🐳 Docker
+
+### 📚 Currently Learning
+🍃 Spring Boot &nbsp;&nbsp; ☁️ AWS
 ## 🌐 Connect With Me
 
 <p align="center">
