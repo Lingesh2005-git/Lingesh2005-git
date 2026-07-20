@@ -9,11 +9,16 @@ Building cool projects
 Building scalable applications and solving real-world problems.
 </p>
 <hr style="height:6px; border:none; background-color:#2E9EF7; border-radius: 3px;">
-🚀 About Me <br>
-🧑‍💻 Building end-to-end web apps and cross-platform mobile experiences with React Native <br>
-🎯 I love shipping products that solve real problems, not just tech demos <br>
-🧠 Diving into AI/ML to make apps a little smarter every day <br>
-⚙️ Always tinkering — new stack, new idea, new weekend project <br>
+## 🚀 About Me
+
+- 🎓 Final Year B.E. Computer Science Engineering Student <br>
+- 💻 Passionate about Full Stack Development and Backend Engineering <br>
+- 📱 Building cross-platform mobile applications using React Native <br>
+- 🤖 Exploring Artificial Intelligence and Machine Learning <br>
+- ☕ Solving Data Structures and Algorithms in Java <br>
+- 🌱 Currently learning Spring Boot, Docker and AWS <br>
+- 🎯 Aspiring Software Development Engineer <br>
+
 <hr style="height:6px; border:none; background-color:#2E9EF7; border-radius: 3px;">
 ### 🛠️ Tech Stack
 
@@ -29,7 +34,6 @@ Building scalable applications and solving real-world problems.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Lingesh2005-git&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lingesh2005-git&theme=radical&hide_border=true" alt="GitHub streak" height="165"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lingesh2005-git&layout=compact&theme=radical&hide_border=true" alt="Top languages" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lingesh2005-git&theme=react-dark&hide_border=true" alt="activity graph" /> </p>
 
 <hr style="height:6px; border:none; background-color:#2E9EF7; border-radius: 3px;">
 ## 🌐 Connect With Me
