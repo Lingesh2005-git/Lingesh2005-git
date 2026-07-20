@@ -33,10 +33,10 @@ Building scalable applications and solving real-world problems.
 ---
 ## 🛠 Tech Stack
 
-### Languages
+### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,c,cpp,html,css" />
+<img src="https://skillicons.dev/icons?i=java,python,javascript,c,cpp" />
 </p>
 
 ### Frameworks
@@ -45,10 +45,16 @@ Building scalable applications and solving real-world problems.
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase" />
 </p>
 
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+</p>
+
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,mysql" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
 </p>
 
 <hr style="height:6px; border:none; background-color:#2E9EF7; border-radius: 3px;">
