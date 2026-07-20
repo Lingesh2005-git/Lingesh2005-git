@@ -8,12 +8,12 @@ Building cool projects
 Aspiring Full Stack Developer | Java | React Native | AI Enthusiast
 </h3>
 
-🚀 About Me
-🧑‍💻 Building end-to-end web apps and cross-platform mobile experiences with React Native
-🎯 I love shipping products that solve real problems, not just tech demos
-🧠 Diving into AI/ML to make apps a little smarter every day
-⚙️ Always tinkering — new stack, new idea, new weekend project
-📫 Reach me at lingeshw268@gmail.com
+🚀 About Me <br>
+🧑‍💻 Building end-to-end web apps and cross-platform mobile experiences with React Native <br>
+🎯 I love shipping products that solve real problems, not just tech demos <br>
+🧠 Diving into AI/ML to make apps a little smarter every day <br>
+⚙️ Always tinkering — new stack, new idea, new weekend project <br>
+📫 Reach me at lingeshw268@gmail.com <br>
 
 <p align="center">
 Building scalable applications and solving real-world problems.
