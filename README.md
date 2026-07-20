@@ -47,12 +47,6 @@ Building scalable applications and solving real-world problems.
 ## 📊 GitHub Statistics
 
 <p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Lingesh2005-git&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lingesh2005-git&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
 <img src="https://streak-stats.demolab.com?user=Lingesh2005-git&theme=tokyonight&hide_border=true"/>
 </p>
 
@@ -60,9 +54,52 @@ Building scalable applications and solving real-world problems.
 <img src="https://ghchart.rshah.org/409EFF/Lingesh2005-git" width="95%"/>
 </p>
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Lingesh2005-git&theme=tokyonight&no-frame=true&row=2&column=4"/>
-</p>
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚗 Automobile Retail & Service Management System
+
+A full-stack automobile retail and service management platform built using the MERN stack and React Native.
+
+**Tech Stack**
+
+`React Native` `Node.js` `Express.js` `MongoDB`
+
+**Key Features**
+
+- 👨‍💼 Admin Dashboard
+- 🔐 JWT Authentication
+- 📦 Inventory Management
+- 🛒 Shopping Cart
+- 📋 Order Management
+- 🔔 Notifications
+- 📱 Cross-platform Mobile App
+
+</td>
+
+<td width="50%">
+
+### 🤖 Research Collaborator Recommendation System
+
+A machine learning application that recommends research collaborators based on publications and research interests.
+
+**Tech Stack**
+
+`Python` `Pandas` `Scikit-learn`
+
+**Key Features**
+
+- TF-IDF
+- Cosine Similarity
+- Publication Analysis
+- Collaboration Recommendation
+
+</td>
+</tr>
+</table>
 
 ## 🌐 Connect With Me
 
