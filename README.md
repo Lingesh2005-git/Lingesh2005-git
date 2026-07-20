@@ -111,11 +111,6 @@ Building backend systems, mobile applications, and AI-driven solutions with a fo
 
 </p>
 
-<p align="center">
-
-<img src="https://ghchart.rshah.org/409EFF/Lingesh2005-git" width="95%"/>
-
-</p>
 
 ---
 
