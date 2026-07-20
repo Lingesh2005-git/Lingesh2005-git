@@ -24,14 +24,22 @@ Building scalable applications and solving real-world problems.
 ### 💻 Languages
 ☕ Java &nbsp;&nbsp; 🐍 Python &nbsp;&nbsp; 🌐 JavaScript &nbsp;&nbsp; 🔵 C &nbsp;&nbsp; ⚙️ C++
 
+---
+
 ### 🎨 Frontend
 📱 React Native &nbsp;&nbsp; 🌐 HTML5 &nbsp;&nbsp; 🎨 CSS3
+
+---
 
 ### ⚙️ Backend
 🟢 Node.js &nbsp;&nbsp; 🚀 Express.js
 
+---
+
 ### 🗄️ Database
 🍃 MongoDB &nbsp;&nbsp; 🐬 MySQL &nbsp;&nbsp; 🔥 Firebase
+
+---
 
 ### 🛠️ Tools
 🔧 Git &nbsp;&nbsp; 🐙 GitHub &nbsp;&nbsp; 💻 VS Code &nbsp;&nbsp; 📬 Postman &nbsp;&nbsp; 🐳 Docker
@@ -39,20 +47,21 @@ Building scalable applications and solving real-world problems.
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lingesh2005-git&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lingesh2005-git&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Lingesh2005-git&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lingesh2005-git&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-## 🔥 GitHub Streak
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Lingesh2005-git&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Lingesh2005-git&theme=tokyonight&hide_border=true"/>
 </p>
 
-## 📈 Contribution Graph
+<p align="center">
+<img src="https://ghchart.rshah.org/409EFF/Lingesh2005-git" width="95%"/>
+</p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lingesh2005-git&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Lingesh2005-git&theme=tokyonight&no-frame=true&row=2&column=4"/>
 </p>
 
 ## 🌐 Connect With Me
