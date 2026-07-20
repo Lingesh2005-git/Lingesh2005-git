@@ -15,7 +15,12 @@ Building scalable applications and solving real-world problems.
 🧠 Diving into AI/ML to make apps a little smarter every day <br>
 ⚙️ Always tinkering — new stack, new idea, new weekend project <br>
 <hr style="height:6px; border:none; background-color:#2E9EF7; border-radius: 3px;">
+🛠️ Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,git,github,figma,vscode" /> </p>
+
+<hr style="height:6px; border:none; background-color:#2E9EF7; border-radius: 3px;">
 ## 🌐 Connect With Me
+
 <p align="center">
 <a href="https://www.linkedin.com/in/r-lingeshwaran/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
