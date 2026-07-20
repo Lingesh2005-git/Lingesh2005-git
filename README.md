@@ -1,6 +1,7 @@
 <h1 align="center">
 Building cool projects 
 </h1>
+</hr>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Aspiring+Software+Engineer;Java+Developer;React+Native+Developer;AI+%26+Machine+Learning+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
@@ -16,9 +17,6 @@ Building scalable applications and solving real-world problems.
 ⚙️ Always tinkering — new stack, new idea, new weekend project <br>
 📫 Reach me at lingeshw268@gmail.com <br>
 
-<p align="center">
-Building scalable applications and solving real-world problems.
-</p>
 
 ## 🌐 Connect With Me
 
