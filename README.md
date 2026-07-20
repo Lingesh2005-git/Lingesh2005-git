@@ -11,18 +11,14 @@ Building scalable applications and solving real-world problems.
 <hr style="height:6px; border:none; background-color:#2E9EF7; border-radius: 3px;">
 ## 🚀 About Me
 
-- 🎓 Final Year B.E. Computer Science Engineering Student <br>
 - 💻 Passionate about Full Stack Development and Backend Engineering <br>
 - 📱 Building cross-platform mobile applications using React Native <br>
 - 🤖 Exploring Artificial Intelligence and Machine Learning <br>
-- ☕ Solving Data Structures and Algorithms in Java <br>
-- 🌱 Currently learning Spring Boot, Docker and AWS <br>
+- ☕ Solving Data Structures and Algorithms in Java <br> 
 - 🎯 Aspiring Software Development Engineer <br>
 
 <hr style="height:6px; border:none; background-color:#2E9EF7; border-radius: 3px;">
 ### 🛠️ Tech Stack
-
----
 
 #### 👨‍💻 Languages
 
@@ -34,6 +30,26 @@ Building scalable applications and solving real-world problems.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+---
+## 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,c,cpp,html,css" />
+</p>
+
+### Frameworks
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,mysql" />
+</p>
 
 <hr style="height:6px; border:none; background-color:#2E9EF7; border-radius: 3px;">
 ## 🌐 Connect With Me
