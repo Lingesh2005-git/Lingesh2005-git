@@ -117,4 +117,17 @@ A machine learning application that recommends research collaborators based on p
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+## 💡 Favorite Quote
+
+> *"First, solve the problem. Then, write the code."* — John Johnson
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
+
+<p align="center">
+Let's connect and build something amazing together 🚀
+</p>
 </p>
